@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/surf_marvin/ramps/devgridgreen"
+	"$nocull" 1
+}

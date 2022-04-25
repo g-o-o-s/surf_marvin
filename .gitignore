@@ -5,4 +5,7 @@
 !/sdk_content/maps/surf/surf_marvin/**
 !/sdk_content/blender/surf_marvin/**
 !/sdk_content/scripts/**
+!/csgo/materials/models/surf_marvin/**
+!/csgo/models/surf_marvin/**
+!/csgo/modelsrc/surf_marvin/**
 !/.gitignore

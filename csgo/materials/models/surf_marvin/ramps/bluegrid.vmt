@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/surf_marvin/ramps/bluegrid"
+	"$nocull" 1
+}
