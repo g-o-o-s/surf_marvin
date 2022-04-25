@@ -4,5 +4,5 @@
 
 !/sdk_content/maps/surf/surf_marvin/**
 !/sdk_content/blender/surf_marvin/**
-
+!/sdk_content/scripts/**
 !/.gitignore
