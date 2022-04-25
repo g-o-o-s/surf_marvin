@@ -1,5 +1,5 @@
 "VertexlitGeneric"
 {
-	"$basetexture" "Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/sdk_content/blender/surf_marvin/textures/redgrid"
+	"$basetexture" "models/surf_marvin/ramps/redgrid"
 	"$nocull" 1
 }
