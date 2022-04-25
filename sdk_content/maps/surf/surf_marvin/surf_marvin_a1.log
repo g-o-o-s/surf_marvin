@@ -14070,3 +14070,134 @@ Total triangle count: 4724
 Writing c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\surf\surf_marvin\surf_marvin_a1.bsp
 MSG_FILEWRITE - Filesystem was asked to write to 'c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\surf\surf_marvin\surf_marvin_a1.bsp', but we don't own that location. Allowing...
 1 minute, 11 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\surf\surf_marvin\surf_marvin_a1.vmf
+Map revision 184
+Patching WVT material: maps/surf_marvin_a1/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\surf\surf_marvin\surf_marvin_a1.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (19469 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 130 texinfos to 60
+Reduced 4 texdatas to 3 (109 bytes to 88)
+Writing c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\surf\surf_marvin\surf_marvin_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\surf\surf_marvin\surf_marvin_a1.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\surf\surf_marvin\surf_marvin_a1.bsp
+reading c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\surf\surf_marvin\surf_marvin_a1.prt
+ 537 portalclusters
+1502 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 281 visible clusters (0.00%)
+Total clusters visible: 271014
+Average clusters visible: 504
+Building PAS...
+Average clusters audible: 537
+visdatasize:77490  compressed from 77328
+writing c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\surf\surf_marvin\surf_marvin_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\surf\surf_marvin\surf_marvin_a1.bsp', but we don't own that location. Allowing...
+1 minute, 50 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\surf\surf_marvin\surf_marvin_a1.bsp
+2051 faces
+11593708 square feet [1669493888.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2051 patches before subdivision
+104699 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10180560, max 635
+transfer lists:  77.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(29239, 27587, 7165)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(965, 889, 231)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(51, 46, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0452 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                 51/8192          612/98304    ( 0.6%) 
+brushsides             377/81920        3016/655360   ( 0.5%) 
+planes                 486/65536        9720/1310720  ( 0.7%) 
+vertexes              2379/65536       28548/786432   ( 3.6%) 
+nodes                 1269/65536       40608/2097152  ( 1.9%) 
+texinfos                60/12288        4320/884736   ( 0.5%) 
+texdata                  3/4096           96/131072   ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2051/65536      114856/3670016  ( 3.1%) 
+hdr faces             2051/65536      114856/3670016  ( 3.1%) 
+origfaces              259/65536       14504/3670016  ( 0.4%) 
+facebrushes              4/0               8/0        ( 0.0%) 
+facebrushlists        2051/0            8204/0        ( 0.0%) 
+leaves                1273/65536       40736/2097152  ( 1.9%) 
+leaffaces             2241/65536        4482/131072   ( 3.4%) 
+leafbrushes            783/65536        1566/131072   ( 1.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             9862/512000      39448/2048000  ( 1.9%) 
+edges                 4978/256000      19912/1024000  ( 1.9%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            121/32768        1210/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1509/65536        3018/131072   ( 2.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     4976740/0        ( 0.0%) 
+visdata               [variable]       77490/16777216 ( 0.5%) 
+entdata               [variable]        1769/393216   ( 0.4%) 
+LDR ambient table     1273/65536        5092/262144   ( 1.9%) 
+HDR ambient table     1273/65536        5092/262144   ( 1.9%) 
+LDR leaf ambient      1273/65536       35644/1835008  ( 1.9%) 
+HDR leaf ambient      3633/65536      101724/1835008  ( 5.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2068     ( 0.0%) 
+pakfile               [variable]      588413/0        ( 0.0%) 
+physics               [variable]       19469/4194304  ( 0.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7e
+
+Total triangle count: 4724
+Writing c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\surf\surf_marvin\surf_marvin_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\surf\surf_marvin\surf_marvin_a1.bsp', but we don't own that location. Allowing...
+1 minute, 6 seconds elapsed
